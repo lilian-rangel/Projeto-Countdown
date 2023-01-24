@@ -47,16 +47,17 @@ body {
     text-shadow: 0 0 10px whitesmoke;
 }
 
-.button {
+.button a{
     background-color: whitesmoke;
     color: #d83478;
     padding: 10px;
     cursor: pointer;
     border: solid 2px whitesmoke;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
-.button:hover {
+.button a:hover {
     color: whitesmoke;
     background-color: #d83478;
 }
