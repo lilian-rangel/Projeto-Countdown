@@ -27,7 +27,7 @@
 
 <hr>
 <h2 align="center">Deploy :link: </h2>
-<a href="https://lilian-rangel-countdown.netlify.app/" target="_blank">Link para testar o projeto</a>
+<a href="https://lilian-rangel-countdown.netlify.app/" target="_blank">Link para a página</a>
 
 <hr>
 <h2 align="center"> Print do projeto </h2>
